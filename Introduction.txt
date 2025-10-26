@@ -1,0 +1,165 @@
+Data Science and Machine Learning !!
+
+Data Science:
+
+Understanding the data, its shape, its distribution, its value,
+
+    so that
+
+     I can use it for prediction , forecasting , and analysis.
+
+Machine Learning:
+
+  It is just an algorithm that will help us achieving the prediction,
+  forecasting or analysis.
+
+Programming Language:
+
+Python , c, c++, Java
+
+Flow of Learning:
+
+Python programming ----> Machine Learning ----> Data Science
+
+-----------------------------------------------------------------------------
+
+Data:
+
+Machine Learning ----> Algorithm ----> Structured Data
+
+1. Structured data ---Organized data
+    DataBase:
+        SQL, Oracle, PostGre
+    Files:
+        Excel, CSV (Excel - Light Version)
+
+Deep Learning(Neural Network) ----> Algorithm ----> Un-Structured Data
+
+2. Un-Structured data ---- Unorganised data
+       Images, Videos, Audios
+
+Natural Language Processing (NLP) ---> LLM (LArger Language Model)
+
+3. Semi-Structured data
+
+Data Science = ML + DL + NLP
+
+Our Syllabus:
+
+Data Science ---> Machine Learning ----> Structure Data(CSV, Excel)
+Extra:
+Data Science ---> Deep Learning ----> Un - Structure Data(Image)
+Data Science ---> NLP  ----> Semi-Structure Data(Sentiment Analysis)
+
+Architecture Approach:
+
+1. I got my data (hello.csv)
+2. Read the data through programming language (Python)
+3. All the details of the Data.
+     3.1 Finding Empty data
+     3.2 Duplicate Data
+     3.3 Data Cleaning
+     3.4 Data wrangling, EDA
+
+Data Analysis + Data Science:
+
+1. Collect the data
+2. preprocessing the data
+3  use it for model and prediction (DS)
+3  use if for visualization , storage, insight finding, analysis(DA)
+
+Being Data Analyst:
+
+1. SQL 2. Excel (Basic)
+2. Tools (PowerBI(Microsoft - user friendly), Tableau(salesforce )) -- Exp
+3. Storage (Cloud S3)
+4. Programming Language (Python)
+
+Being Data Science (+ Data Analyst):
+
+1. Files (CSV, Excel)
+2. Models (Algorithm)
+3. Programming (Language) ---> Exp
+
+
+Being Data engineering:
+
+1. Data Collection
+2. Data Storage
+3. Data Retention
+4. Data Lake, Data War-house, SQL, EXCEL, PowerBI
+5. Big Data, PySpark, Hadoop
+
+Syllabus:
+
+1. No-Code Data Science(5)
+    2.1 Tool: Dataiku - Software(windows and MAc)
+
+2. Python Language
+    1.1 Installation
+    1.2 Software and Version
+         a. pycharm (Focus)
+         b. visual studio
+         c. Google Colab
+         d. jupyter(Focus)
+    1.3 Tricks and Tips to run
+
+
+3. Working Flow of Machine Learning
+    3.1  Data and Its Processing
+         3.1.1 Libraries
+                 a. Pandas
+                 b. Numpy
+                 c. Matplotlib
+                 d. seaborn
+                 e. scikit-learn
+                 f. scipy and statsmodels
+    3.2  Data Visualization
+    3.3  Model
+          3.2.1 Supervised Learning
+                 a. Linear Regression
+                 b. Logistic Regression
+                 c. Decision Tree
+                 d. Random Forest
+                 e. SVM
+                 f. KNN
+          3.2.2 UnSupervised Learning
+               a. PCA
+               b. K-Means Clustering
+               c. T-SNE
+               d. DBScan
+               e. Hierarchical Clustering
+          3.2.3 Semi-Supervised Learning
+    3.4 Stats (maths based analysis)
+    3.5 TimeSeries
+
+4. Tools:
+    4.1 DB - SQL
+    4.2 Visualization - PowerBI
+    4.3 Cloud - Azure or AWS
+    4.4 CI/CD - Jenkins and Pipline
+    4.5 GITHUB - More Attention
+
+5. Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
